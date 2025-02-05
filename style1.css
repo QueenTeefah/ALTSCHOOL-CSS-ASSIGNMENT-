@@ -1,0 +1,40 @@
+/* Genral styling*/
+body{display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    background-color: rgb(34, 34, 34);
+    margin: 0;
+}
+
+/* Container styling*/
+.container{ display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+/*card styling*/
+.card{background-color: white;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    box-shadow: 0px 4px 6px rgba(0,0, 0, 0.2);
+    
+
+}
+/*Title styling*/
+.card-Title{background-color: rgb(255, 32, 106);
+    color: black;
+    font-weight: bold;
+    padding: 10px 20px;
+    top: -15px;
+    width: 75%;
+    position: relative;
+    margin: -30px -30px 5px -30px;
+    display: inline-block;
+    
+    
+
+}
